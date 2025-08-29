@@ -1,2 +1,2 @@
 # DeepCFD-for-Prediction-of-flow-field-in-Laval-nozzle
-  This is a U-Net-based deep learning model, which we call DeepCFD. You can use this model to predict the temperature, velocity, and pressure flow fields within a Laval nozzle. The specific nozzle parameters, mesh, case, and model training dataset are also provided. If you need the complete dataset, please contact us.
+  This is a U-Net-based deep learning model, called DeepCFD. You can use this model to predict the temperature, velocity, and pressure flow fields within a Laval nozzle. We also provide the detailed nozzle parameters, meshes, cases, and model training dataset, as well as the script used to generate the dataset. If you would like to request the complete dataset, please contact us.
